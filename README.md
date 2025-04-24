@@ -33,7 +33,7 @@ A responsive, real-time cryptocurrency price tracker built with **React** and **
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Abdulaziz6921crypto-tracker.git
+   git clone https://github.com/Abdulaziz6921/crypto-tracker.git
    cd crypto-tracker
    ```
 
